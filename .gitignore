@@ -1,0 +1,23 @@
+# Build output directories
+CM4/Debug/
+CM4/Release/
+CM7/Debug/
+CM7/Release/
+
+# Object files
+*.o
+*.d
+
+# Compiled output
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# IDE / OS
+.DS_Store
+Thumbs.db
+
+# Claude Code internals
+.claude/
